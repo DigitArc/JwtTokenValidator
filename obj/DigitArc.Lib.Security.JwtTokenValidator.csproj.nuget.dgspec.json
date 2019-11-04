@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\code\\DigitArc\\GitHub\\DigitArc.Lib.Security.JwtTokenValidator\\DigitArc.Lib.Security.JwtTokenValidator.csproj": {}
+  },
+  "projects": {
+    "C:\\code\\DigitArc\\GitHub\\DigitArc.Lib.Security.JwtTokenValidator\\DigitArc.Lib.Security.JwtTokenValidator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\code\\DigitArc\\GitHub\\DigitArc.Lib.Security.JwtTokenValidator\\DigitArc.Lib.Security.JwtTokenValidator.csproj",
+        "projectName": "DigitArc.Lib.Security.JwtTokenValidator",
+        "projectPath": "C:\\code\\DigitArc\\GitHub\\DigitArc.Lib.Security.JwtTokenValidator\\DigitArc.Lib.Security.JwtTokenValidator.csproj",
+        "packagesPath": "C:\\Users\\oguzh\\.nuget\\packages\\",
+        "outputPath": "C:\\code\\DigitArc\\GitHub\\DigitArc.Lib.Security.JwtTokenValidator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oguzh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\code\\Juvelius\\CoreTrading": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.WebJobs": {
+              "target": "Package",
+              "version": "[3.0.14, )"
+            },
+            "Microsoft.IdentityModel.Protocols": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

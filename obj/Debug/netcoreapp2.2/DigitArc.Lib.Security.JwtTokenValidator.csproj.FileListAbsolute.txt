@@ -1,0 +1,9 @@
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\bin\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.deps.json
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\bin\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.dll
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\bin\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.pdb
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.csprojAssemblyReference.cache
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.csproj.CoreCompileInputs.cache
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.AssemblyInfoInputs.cache
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.AssemblyInfo.cs
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.dll
+C:\code\DigitArc\GitHub\DigitArc.Lib.Security.JwtTokenValidator\obj\Debug\netcoreapp2.2\DigitArc.Lib.Security.JwtTokenValidator.pdb
